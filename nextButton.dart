@@ -16,7 +16,7 @@ class nextButton extends StatelessWidget {
         ),
         padding: EdgeInsets.symmetric(vertical: 10),
         width: double.infinity,
-        child: Text("Next Question", textAlign: TextAlign.center,),
+        child: Text("Next Questions", textAlign: TextAlign.center,),
       ),
     );
   }
